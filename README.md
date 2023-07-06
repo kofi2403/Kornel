@@ -1,1 +1,1 @@
-# Kornel
+# Kornel Weather App
